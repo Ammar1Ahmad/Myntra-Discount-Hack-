@@ -1,22 +1,37 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/3b4f7d35-4152-4327-86c8-90c1816bf3b0" />
-">
+  <img src="assets/logo.png" alt="Myntra Logo" width="140"/>
 </p>
 
 <h1 align="center">🛍️ Myntra Savings Guide</h1>
 
 <p align="center">
-A premium documentation-style guide to official coupons, bank offers, cashback, rewards, and smart shopping tips.
+  <strong>Official Coupons • Bank Offers • Cashback • SuperCoins • Shopping Tips</strong>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Version-1.0-ff3f6c?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Documentation-Complete-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Maintained-Yes-orange?style=for-the-badge">
+  A premium documentation-style guide to maximizing savings on Myntra through official offers and smart shopping strategies.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v1.0-ff3f6c?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/your-username/myntra-savings-guide?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Documentation-Complete-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge">
 </p>
 
 ---
+
+> **📖 About**
+>
+> This repository provides a structured guide to using **official coupons, bank offers, cashback programs, Myntra Insider benefits, SuperCoins, gift cards, and seasonal sales** to save money while shopping on Myntra. Each section includes screenshots for clarity and ease of use.
+
+---
+
+## 📸 Preview
+
+<p align="center">
+<img src="assets/banner.png" width="100%">
+</p>
 
 # ✨ Overview
 
