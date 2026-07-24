@@ -62,7 +62,8 @@ myntra-savings-guide/
 
 Open the Myntra application or website and sign in to your account.
 
-📷 *Insert Screenshot*
+<img width="1464" height="761" alt="Screenshot 2026-07-24 at 8 23 30 AM" src="https://github.com/user-attachments/assets/dffe8fe2-2380-402f-a657-78e731bdb429" />
+
 
 ---
 
@@ -70,7 +71,8 @@ Open the Myntra application or website and sign in to your account.
 
 Navigate to the Offers section or checkout page to view currently available promotions.
 
-📷 *Insert Screenshot*
+<img width="1445" height="754" alt="Screenshot 2026-07-24 at 8 21 56 AM" src="https://github.com/user-attachments/assets/9e40060b-f1c3-4eee-a5e2-7f699b06ee0b" />
+
 
 ---
 
