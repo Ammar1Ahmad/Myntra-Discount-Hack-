@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="Myntra Logo">
+  <img src="<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/3c6c1a45-0b3e-4f65-a16f-f27ced5f1338" />
+" width="120" alt="Myntra Logo">
 </p>
 
 <h1 align="center">🛍️ Myntra Savings Guide</h1>
